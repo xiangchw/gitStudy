@@ -7,7 +7,7 @@ import java.util.concurrent.ThreadLocalRandom;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("HEllo World!");
+        System.out.println("HAllo World!");
         System.out.println(randomString());
     }
 
