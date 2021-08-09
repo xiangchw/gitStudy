@@ -10,6 +10,7 @@ public class App {
         System.out.println("HEllo World!");
         System.out.println(randomString());
         System.out.println("测试绑定一个问题追踪地址:");
+        System.out.println("Master增加新功能!");
         System.out.println("测试绑定一个问题追踪地址: 9041");
     }
 
