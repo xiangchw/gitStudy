@@ -9,6 +9,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println("HAllo World!");
         System.out.println("新特性1");
+        System.out.println("master新增1");
         System.out.println(randomString());
         System.out.println("测试绑定一个问题追踪地址:");
         System.out.println("Master增加新功能!");
