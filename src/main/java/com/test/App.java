@@ -8,6 +8,7 @@ import java.util.concurrent.ThreadLocalRandom;
 public class App {
     public static void main(String[] args) {
         System.out.println("HAllo World!");
+        System.out.println("rebase新增1");
         System.out.println("新特性1");
         System.out.println("master新增1");
         System.out.println(randomString());
