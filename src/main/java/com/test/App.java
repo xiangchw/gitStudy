@@ -15,6 +15,7 @@ public class App {
         System.out.println("Master增加新功能!");
         System.out.println("测试绑定一个问题追踪地址: 9041");
         System.out.println("master新增功能2");
+        System.out.println("rebase新增功能3");
     }
 
     private static String randomString() {
