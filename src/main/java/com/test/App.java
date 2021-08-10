@@ -19,6 +19,7 @@ public class App {
         System.out.println("master新增功能2");
         System.out.println("rebase新增功能3");
         System.out.println("rebase新增功能4");
+        System.out.println("rebase新增功能5");
     }
 
     private static String randomString() {
