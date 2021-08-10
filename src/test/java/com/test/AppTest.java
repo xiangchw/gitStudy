@@ -18,6 +18,7 @@ public class AppTest
     {
         System.out.println("rebase新增功能6");
         assertTrue( true );
+        assertTrue( false );
         fail();
         assertTrue( false );
     }

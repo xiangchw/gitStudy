@@ -17,11 +17,14 @@ public class App {
         System.out.println("Master测试冲突!");
         System.out.println("测试绑定一个问题追踪地址: 9041");
         System.out.println("rebase新增功能2");
+        System.out.println("rebase测试冲突");
         System.out.println("master新增功能2");
         System.out.println("rebase新增功能3");
         System.out.println("rebase新增功能4");
+        System.out.println("REBASE功能测试5");
+        System.out.println("REBASE新增功能6");
         System.out.println("REBASE测试冲突");
-        System.out.println("MASTER新增功能5");
+        System.out.println("123-MASTER新增功能5");
     }
 
     private static String randomString() {
