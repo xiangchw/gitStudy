@@ -16,6 +16,7 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
+        System.out.println("rebase新增功能6");
         assertTrue( true );
         fail();
         assertTrue( false );
