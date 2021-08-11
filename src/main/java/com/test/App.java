@@ -29,6 +29,8 @@ public class App {
 
         System.out.println("新功能");
         System.out.println("master新功能");
+        System.out.println("新功能1");
+        System.out.println("新功能2");
     }
 
     private static String randomString() {
