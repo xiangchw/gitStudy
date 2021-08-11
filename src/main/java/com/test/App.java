@@ -25,6 +25,9 @@ public class App {
         System.out.println("REBASE新增功能6");
         System.out.println("REBASE测试冲突");
         System.out.println("123-MASTER新增功能5");
+
+
+        System.out.println("新功能");
     }
 
     private static String randomString() {
